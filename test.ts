@@ -1,1 +1,1 @@
-// const test: string = 2
+const test: string = 2
