@@ -4,8 +4,7 @@
   "description": "template",
   "main": "index.js",
   "scripts": {
-    "lint": "npx lint-staged",
-    "test": "echo \"Error: no test specified\" && exit 1",
+                        "lint": "npx lint-staged",
     "prepare": "husky"
   },
   "author": "",
