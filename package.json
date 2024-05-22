@@ -4,7 +4,7 @@
   "description": "template",
   "main": "index.js",
   "scripts": {
-                        "lint": "npx lint-staged",
+    "lint": "npx lint-staged",
     "prepare": "husky"
   },
   "author": "",
