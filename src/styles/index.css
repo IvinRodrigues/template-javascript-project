@@ -1,25 +1,25 @@
 .generic-class-one {
-  color: red;
-  background-color: black;
-  padding: 24px;
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
+    color: red;
+    background-color: black;
+    padding: 24px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 12px 24px;
 }
 
 .generic-class-two {
-  padding: 12px;
-  border-width: 1px;
-  border-style: solid;
-  border-radius: 2px;
-  border-color: red;
+    padding: 12px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 2px;
+    border-color: red;
 }
 
 .generic-class-three {
-  background-color: red;
-  margin-bottom: 24px;
-  position: relative;
-  display: grid;
-  grid-template-columns: 200px 1fr 2fr;
+    background-color: red;
+    margin-bottom: 24px;
+    position: relative;
+    display: grid;
+    grid-template-columns: 200px 1fr 2fr;
 }
