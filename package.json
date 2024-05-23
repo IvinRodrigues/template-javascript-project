@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "template",
   "scripts": {
-    "test": "echo test",
+    "commit": "npx cz",
     "prepare": "husky"
   },
   "type": "module",
