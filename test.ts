@@ -1,1 +1,3 @@
-const test: string = 23;
+const test = 23;
+
+test = 11;
