@@ -1,3 +1,1 @@
-const test: string = 2;
-
-console.log(test);
+const test: string = 23;
