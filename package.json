@@ -8,11 +8,15 @@
     "prepare": "husky"
   },
   "author": "",
+  "type": "module",
   "license": "ISC",
   "devDependencies": {
     "husky": "^9.0.11",
     "lint-staged": "^15.2.4",
     "prettier": "^3.2.5",
     "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "eslint": "^9.3.0"
   }
 }
